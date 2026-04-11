@@ -1,0 +1,9 @@
+{
+  "id": "0library",
+  "name": "0Library",
+  "version": "0.3.0",
+  "minAppVersion": "1.0.0",
+  "description": "우리 볼트 전용: 표 너비·색·선택 셀 병합, ID-PW-BUY 등",
+  "author": "0Library",
+  "isDesktopOnly": false
+}

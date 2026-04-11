@@ -1,0 +1,5 @@
+# 로컬 볼트 설정 (커밋하지 않음)
+data.json
+.DS_Store
+Thumbs.db
+*.log
